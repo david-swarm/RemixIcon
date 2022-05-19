@@ -5299,15 +5299,23 @@
 		"add": [
 			"plus",
 			"new",
+			"+",
+			"math",
 			"添加",
 			"新增",
 			"加号"
 		],
 		"subtract": [
-			"减"
+			"减",
+			"minus",
+			"-",
+			"math",
+			"minimize"
+
 		],
 		"divide": [
-			"除以"
+			"除以",
+			"math"
 		],
 		"arrow-left-up": [
 			"corner",
